@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nagakumar420.github.io/Allnaa/sitemap.xml
